@@ -78,7 +78,7 @@ You agree to the following payment schedule:
 
 [payment schedule]
 
-Delinquent bills
+Delinquent bills will be assessed a 5% charge if payment has not cleared within 10 days of the due date as shown on the invoice. If an amount continues to remain unpaid after this an addition 5% of the original invoice will be charged for ever 10 days of delinquency. In the case that collection by a 3rd party becomes necessary you agree to pay all fees incurred by that process.
 
 ### Miscellaneous
 You may not transfer this contract to anyone else without my permission. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
@@ -89,10 +89,10 @@ Although the language used in this contract is simple its intent is serious. It 
 
 Signed by [customer name] (authorised signature):
 
-__________________________________________________
+_____________________________________  Date: _______________
 
 Signed by of Harrison Brown (authorised signature):
 
-__________________________________________________
+_____________________________________  Date: _______________
 
 Everyone should sign above and keep a copy for their records.
