@@ -89,10 +89,10 @@ Although the language used in this contract is simple its intent is serious. It 
 
 Signed by [customer name] (authorised signature):
 
-_____________________________________  Date: _______________
+_______________________________________  Date: _______________
 
 Signed by of Harrison Brown (authorised signature):
 
-_____________________________________  Date: _______________
+_______________________________________  Date: _______________
 
 Everyone should sign above and keep a copy for their records.
