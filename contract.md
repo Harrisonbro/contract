@@ -7,12 +7,18 @@ I will always do my best to fulfil your needs and meet your expectations, but it
 
 So, in short:
 
-You ([customer name]), located at [customer address] are hiring me (Harrison Brown) to [design and develop a website] for the estimated total price of [total] as outlined in our previous correspondence.
+You ([customer name, possibly 'on behalf of ...']), located at [customer address] are hiring me (Harrison Brown) to [design and develop a website] for the estimated total price of [total] as outlined in our previous correspondence.
 
 ## What do both parties agree to do?
 _You_: You confirm that you have the authority to enter into this contract on behalf of yourself, your company or your organisation. You'll give me everything I need to complete the project as and when, and in the format I need it. You'll review my work and provide feedback and approval in a timely manner. Deadlines apply to both parties, so you'll also be bound by the dates we set together. You also agree to stick to the payment schedule set out at the end of this contract.
 
 _Me_: I have the experience and ability to do everything I've agreed with you and I'll do it all in a professional and timely manner. I'll endeavour to meet every deadline that we've set and I'll maintain the confidentiality of everything you give to me for this project.
+
+## Outline of work
+[what work is included in this contract, and what dates?]
+
+### Completion date
+We agree to complete the work outlined above by [completion date]
 
 ## The details
 
@@ -49,7 +55,10 @@ Fixed-price contracts are rarely beneficial to you as they often limit you to yo
 ### Legal stuff
 I can't guarantee that my work will be error-free and therefore cannot be liable to you or to any third-party for damages including lost profits, lost savings or other incidental, consequential or special damages, even if you've advised me of them. 
 
-Finally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the vailidity and enforceability of any remaining provisions.
+Finally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the validity and enforceability of any remaining provisions.
+
+### Laws affecting electronic commerce
+Governments sometimes enact laws and levy taxes affecting Internet electronic commerce. You will take full responsibility for complying with such laws, taxes and tariffs and will hold
 
 ### Copyrights
 First, you guarantee that all elements of text, images or other artwork you provide are either owned by you, or that you have permission to use them.
