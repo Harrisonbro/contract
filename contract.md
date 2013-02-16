@@ -45,7 +45,7 @@ Browser test does not mean ensuring a website looks the same in browsers or devi
 I test my work in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Internet Explorer), Mozilla Firefox and Opera. I'll also test to ensure Microsft Internet Explorer 7 & 8 for Windows get an appropriate (although possibly different) experience. I will not test in older browsers unless you specify otherwise. If you need an enhanced design for older browsers I can provide a separate estimate for that.
 
 ### Technical support and associated services
-This contract does not include website hosting, domain name registration, email or other related services. This contract does not include setting up a website on any existing web hosting infrastructure or services you may have.
+This contract does not include website hosting, domain name registration, email or other related services, unless these services are specifically detailed in the Outline of Work. This contract does not include setting up a website on any existing web hosting infrastructure or services you may have, unless this service is specifically detailed in the Outline of Work
 
 If you need web hosting or related services, or need me to set up your website on your existing web hosting infrastructure or services, I can provide a separate estimate for that.
 
@@ -53,7 +53,7 @@ If you need web hosting or related services, or need me to set up your website o
 Fixed-price contracts are rarely beneficial to you as they often limit you to your earliest ideas and don't allow for experimentation or learning during the project. I don't want to limit your ability to change your mind. The price at the beginning of this contract is based on the amount of work I estimate will be needed to accomplish everything you've told me you want to achieve, but I'm happy to be flexible. If you want to change your mind or add anything new it won't be a problem as I can provide a separate estimate for that. Please note, however, that a large number of small changes can add a lot of extra work which we will need to agree a separate estimate for.
 
 ### Legal stuff
-I can't guarantee that my work will be error-free and therefore cannot be liable to you or to any third-party for damages including lost profits, lost savings or other incidental, consequential or special damages, even if you've advised me of them. 
+I can't guarantee that my work will be error-free and therefore cannot be liable to you or to any third-party for damages including lost profits, lost savings or other incidental, consequential or special damages, even if you've advised me of them. The entire risk as to the quality and performance of the webpages and website is with you.
 
 Finally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the validity and enforceability of any remaining provisions.
 
@@ -61,7 +61,7 @@ Finally, if any provision of this contract shall be unlawful, void, or for any r
 Governments sometimes enact laws and levy taxes affecting Internet electronic commerce. You will take full responsibility for complying with such laws, taxes and tariffs and will hold
 
 ### Copyrights
-First, you guarantee that all elements of text, images or other artwork you provide are either owned by you, or that you have permission to use them.
+First, you guarantee that all elements of text, images or other artwork you provide are either owned by you, or that you have permission from the rightful owner to use them. You will hold harmless, protect and defend me and my subcontractors from any claim or suit arising the use of assets you give me.
 
 After your final payment has cleared, copyright will be automatically assigned as follows:
 
@@ -74,9 +74,11 @@ I love to show off my work and share what I've learned with other people, so I r
 ### Payments
 I'm sure you will understand how important it is to a small business such as mine that you pay the invoices I send you promptly.
 
-You agree to stick to the following payment schedule:
+You agree to the following payment schedule:
 
 [payment schedule]
+
+Delinquent bills
 
 ### Miscellaneous
 You may not transfer this contract to anyone else without my permission. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
