@@ -88,14 +88,34 @@ You may not transfer this contract to anyone else without my permission. If for 
 
 Although the language used in this contract is simple its intent is serious. It is a legal document under the exclusive jurisdiction of English courts.
 
-## Signatures
+## Acceptance
 
 Signed by [customer name] (authorised signature):
 
-_______________________________________  Date: _______________
 
-Signed by of Harrison Brown (authorised signature):
+Signature: __________________________________________________
 
-_______________________________________  Date: _______________
+Print name: _________________________________________________
+
+Company: ____________________________________________________
+
+Title: ______________________________________________________
+
+Date: _______________________________________________________
+
+
+Signed by Harrison Brown (authorised signature):
+
+
+Signature: __________________________________________________
+
+Print name: _________________________________________________
+
+Company: ____________________________________________________
+
+Title: ______________________________________________________
+
+Date: _______________________________________________________
+
 
 Everyone should sign above and keep a copy for their records.
