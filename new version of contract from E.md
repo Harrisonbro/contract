@@ -47,7 +47,7 @@ Unforeseeable Circumstances include:
 - Death of Mr Brown or immediate family.
 - Serious computer malfunction. 
 
-## Design Services
+## Service details
 
 ### Design
 Mr Brown creates designs predominantly using HTML and CSS, and will not mock-up every page of your site as a static visual picture. He also uses sketches (digital or otherwise) and other design tools such as style-boards to help the design process.
@@ -114,14 +114,14 @@ Harrison Brown reserves the right to display and link to the project as part of 
 Refunds are available if work is halted. If [company name] halts work and applies for a refund, any work completed will be billed at the hourly rate which [company name] agrees to pay to Harrison Brown. Any deposit paid as part of this contract is non-refundable. If at the time you halt the project the work completed by me is not covered by any initial deposit or subsequent payments you agree to pay for all work completed to that point at the hourly rate. 
 
 ## Acceptance
-Signed by [customer name] (authorised signature):
-Signature: _________________________________
-Print name: ________________________________
+Signed by [customer name] (authorised signature):  
+Signature: _________________________________  
+Print name: ________________________________  
 Date: ______________________________________
 
-Signed by Harrison Brown (authorised signature):
-Signature: _________________________________
-Print name: ________________________________
+Signed by Harrison Brown (authorised signature):  
+Signature: _________________________________  
+Print name: ________________________________  
 Date: ______________________________________
 
 Please retain a copy of this agreement for your records. 
