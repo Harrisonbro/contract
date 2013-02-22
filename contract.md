@@ -1,12 +1,12 @@
 # Contract of Services 
 
 ## Introductions and Definitions
-This is an agreement between Harrison Brown and [Insert Company’s Name].
+This is an agreement between Mr. Harrison Brown ("I" or "me") and [Insert Company’s Name] ("you").
 
-The agreement will be in accordance with the following Terms and Conditions and until an alternative is specifically agreed between the parties.
+The agreement will be in accordance with the following Terms and Conditions until an alternative is specifically agreed between the parties.
 
 ### Purpose of the Agreement
-The details of the agreement are that [Insert Company’s Name] are hiring Mr. Brown to [design and develop a website].
+The details of the agreement are that you are hiring me to [design and develop a website].
 
 ### Commencement of the Agreement
 The agreement will commence on [date] and is to be carried out in accordance with the terms set out.
@@ -16,23 +16,23 @@ It can be terminated by either party provided a calendar months' notice is provi
 ### Fee for Services
 The services will be carried out for the total estimated price of [insert price]. 
 
-The final price is to be paid upon completion of the services provided. Work done by Mr. Brown will not be released to [company name] until final payment has cleared.
+The final price is to be paid upon completion of the services provided. Work I do will not be released to you until final payment has cleared.
 
 #### Deposit
-A deposit of [inset price] is required before the commencement of any services. Services shall not begin until deposit has been received. If the initial deposit is not paid promptly Mr. Brown reserves the right to re-define the completion date(s) to fairly reflect the delay caused by late payment of the deposit.
+A deposit of [inset price] is required before the commencement of any services. Services shall not begin until deposit has been received. If the initial deposit is not paid promptly I reserve the right to re-define the completion date(s) to fairly reflect the delay caused by late payment of the deposit.
 
 #### Late payments
-Delinquent bills will be assessed a 5% charge if payment has not cleared within 10 days of the due date as shown on the invoice. If an amount continues to remain unpaid after this an addition 5% of the original invoice will be charged for every 10 days of delinquency. In the case that collection by a 3rd party becomes necessary [company name] agrees to pay all fees incurred by that process.
+You agree to pay all invoices within 7 days of receipt, unless the invoice specifies otherwise. Delinquent bills will be assessed a 5% charge if payment has not cleared within 7 days of the due date as shown on the invoice. If any amount continues to remain unpaid after this an addition 5% of the original invoice will be charged for every 7 days of delinquency. In the case that collection by a 3rd party becomes necessary you agree to pay all fees incurred by that process.
 
-If payment is not paid within 31 days of completion, Mr Brown reserves the right to commence legal proceedings to retrieve the outstanding balance.
+If payment is not paid within 31 days of completion, I reserves the right to commence legal proceedings to retrieve the outstanding balance.
 
 #### Hourly rate
 Where this contract refers to an hourly rate, that rate shall be £100 per hour.
 
 ### Expectations of Parties
-[Company]: [Insert company name/representative name] confirm[s] that [they/he/she] [have/has] the authority to enter into this contract on behalf of yourself, your company or your organisation. Everything needed to complete the project as and when, and in the format needed will be provided in adequate time. [Representative’s Name] will review the work and provide feedback and approval in a timely manner. Deadlines apply to both parties, so [company name] will be bound by the dates agreed by both parties. [Company] also agree to stick to the payment schedule set out at the end of this contract.
+_You:_ You confirm that you have the authority to enter into this contract on behalf of yourself, your company or your organisation. You agree to provide in adequate time everything I need to complete the project as, when, and in the format required. You will review my work and provide feedback and approval in a timely manner. Deadlines apply to both parties, so you will be bound by the dates agreed by both parties. You also agree to stick to the payment schedule set out at the end of this contract.
 
-Mr. Brown: Mr. Brown has the experience and ability to do everything agreed with [company] and will do it all in a professional and timely manner. Mr Brown will endeavour to meet every deadline that has been set and maintain the confidentiality of everything given to him for this project.
+_Me:_ I have the experience and ability to do everything I've agreed with you and will do it all in a professional and timely manner. I will endeavour to meet every deadline that has been set and maintain the confidentiality of everything you've given to me for this project.
 
 ## Outline of work
 [what work is included in this contract, and what dates?]
@@ -40,12 +40,12 @@ Mr. Brown: Mr. Brown has the experience and ability to do everything agreed with
 ### Completion date
 The work will be completed by [date] unless unforeseeable circumstances prevent completion.
 
-In the event that completion is after the specified date, Mr Brown will offer a 10% discount on the original price as compensation. Mr Brown would need to provide the company notice if he felt the work would not be completed by the agreed completion date. If the work is not able to be completed, the agreement will be immediately terminated and payment for services up to that point will be required.
+I will give you advance warning if it becomes clear that events occurring and/or decisions made during the project threaten to stop the work being completed by the agreed completion date. If the work is not able to be completed by the agreed completion date, the agreement will be immediately terminated and payment for services up to that point will be required. After that we may agree on a revised scope of work in a separate contract to complete the project.
 
-Unforeseeable Circumstances include:
-- Serious illness or hospitalisation of Mr Brown or immediate family. 
-- Death of Mr Brown or immediate family.
-- Serious computer malfunction. 
+Unforeseeable circumstances include:
+- Serious illness or hospitalisation of me or my immediate family. 
+- Death of me or immediate family.
+- Serious equipment malfunction. 
 
 ## Service details
 
