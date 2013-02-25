@@ -24,13 +24,13 @@ A deposit of [inset price] is required before the commencement of any services. 
 #### Late payments
 You agree to pay all invoices within 7 days of receipt, unless the invoice specifies otherwise. Delinquent bills will be assessed a 5% charge if payment has not cleared within 7 days of the due date as shown on the invoice. If any amount continues to remain unpaid after this an addition 5% of the original invoice will be charged for every 7 days of delinquency. In the case that collection by a 3rd party becomes necessary you agree to pay all fees incurred by that process.
 
-If payment is not paid within 31 days of completion, I reserves the right to commence legal proceedings to retrieve the outstanding balance.
+If payment is not paid within 31 days of completion, I reserve the right to commence legal proceedings to retrieve the outstanding balance.
 
 #### Hourly rate
 Where this contract refers to an hourly rate, that rate shall be £100 per hour.
 
 ### Expectations of Parties
-_You:_ You confirm that you have the authority to enter into this contract on behalf of yourself, your company or your organisation. You agree to provide in adequate time everything I need to complete the project as, when, and in the format required. You will review my work and provide feedback and approval in a timely manner. Deadlines apply to both parties, so you will be bound by the dates agreed by both parties. You also agree to stick to the payment schedule set out at the end of this contract.
+_You:_ You confirm that you have the authority to enter into this contract on behalf of yourself, your company or your organisation. You agree to provide, in adequate time, everything I need to complete the project as, when, and in the format required. You will review my work and provide feedback and approval in a timely manner. Deadlines apply to both parties, so you will be bound by the dates we have agreed. You also agree to stick to the payment schedule set out at the end of this contract.
 
 _Me:_ I have the experience and ability to do everything I've agreed with you and will do it all in a professional and timely manner. I will endeavour to meet every deadline that has been set and maintain the confidentiality of everything you've given to me for this project.
 
@@ -40,7 +40,7 @@ _Me:_ I have the experience and ability to do everything I've agreed with you an
 ### Completion date
 The work will be completed by [date] unless unforeseeable circumstances prevent completion.
 
-I will give you advance warning if it becomes clear that events occurring and/or decisions made during the project threaten to stop the work being completed by the agreed completion date. If the work is not able to be completed by the agreed completion date, the agreement will be immediately terminated and payment for services up to that point will be required. After that we may agree on a revised scope of work in a separate contract to complete the project.
+I will give you advance warning if it becomes clear that events occurring and/or decisions made during the project threaten to stop the work being completed by the agreed completion date. If the work is not able to be completed by the agreed completion date, the agreement will be immediately terminated you agree to pay me for services up to that point. After that we may agree on a revised scope of work in a separate contract to complete the project.
 
 Unforeseeable circumstances include:
 - Serious illness or hospitalisation of me or my immediate family. 
@@ -62,7 +62,7 @@ You should supply graphic files in an editable, digital format. Photographs must
 
 If you choose to purchase stock photographs I can suggest stock libraries but you agree to search for and purchase the photos yourself. If you'd like me to search for photographs for you I can provide a separate estimate for that.
 
-Where large numbers of graphics files need to be provided (such as for an image gallery or catalogue of products) these files must be supplied in an clear, organised way. Time spent figuring out which graphics should go where will be billed at the hourly rate.
+Where large numbers of graphics files need to be provided (such as for an image gallery or catalogue of products) these files must be supplied in an clear, organised way. Time spent figuring out which graphics should go where will be billed at the hourly rate. If you are in any doubt as to the best way to provide me with graphics files you should ask first.
 
 #### HTML, CSS and Javascript
 I deliver websites developed from HTML5 markup, CSS2.1 + 3 stylesheets for styling and unobtrusive Javascript for feature detection, poly-fills and behaviours.
@@ -83,7 +83,7 @@ If web hosting or related services are required, or assistance is required to se
 ### Changes and revisions
 The price at the beginning of this contract is based on the estimated amount of work required to accomplish all the services defined in this contract.
 
-Changes and revisions can be made to the work during the project, although this may affect the estimated price you request complex changes or a large number of changes. I will give keep you informed of the progress of the project and will give fair warning if any requests you make are likely to cause the project to require a longer time-frame or larger budget than defined in this contract. 
+Changes and revisions can be made to the work during the project, although this may affect the estimated price if you request complex changes or a large number of changes. I will give keep you informed of the progress of the project and will give fair warning if any requests you make are likely to cause the project to require a longer time-frame or larger budget than defined in this contract. 
 
 In this situation you and I will discuss how to move forward, either by redefining the scope of work at the same price, or by increasing the time-frame and/or budget required to complete the work. Work will halt while this is discussed and agreed on, after which work will continue. If work is halted for more than 3 weeks for this reason, I reserve to terminate this contract and you agree to pay for any services I have provided up until that point. However, I will do my best to ensure that you and I can quickly agree on a revised scope and/or budget if needed and continue with the project with the least disruption possible.
 
@@ -94,9 +94,9 @@ All work will be completed to the highest standard possible. However, I cannot g
 
 If any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the validity and enforceability of any remaining provisions.
 
-This contract is non-transferable to third parties without my consent. If for some reason one part of this contract becomes invalid or unenforceable, the remaining provisions remain in place.
+This contract is not transferable to third parties without my consent. If for some reason one part of this contract becomes invalid or unenforceable, the remaining provisions remain in place.
 
-This is a legal document under the exclusive jurisdiction of English courts. If any provisions are breached, Mr Brown reserves the right to commence legal proceedings if required. 
+This is a legal document under the exclusive jurisdiction of English courts. If any provisions are breached, I reserve the right to commence legal proceedings, if required. 
 
 ### Laws affecting electronic commerce
 Governments sometimes enact laws and levy taxes affecting Internet electronic commerce. You will take full responsibility for complying with such laws, taxes and tariffs and will hold
