@@ -50,49 +50,51 @@ Unforeseeable circumstances include:
 ## Service details
 
 ### Design
-Mr Brown creates designs predominantly using HTML and CSS, and will not mock-up every page of your site as a static visual picture. He also uses sketches (digital or otherwise) and other design tools such as style-boards to help the design process.
+I create designs predominantly using HTML and CSS, and will not mock-up every page of your site as a static visual picture. I may also uses sketches (digital or otherwise) and other design tools such as style-boards to help the design process.
 
-Opportunities to review the work and provide feedback will be given. If, at any stage, [company] is not happy with the design whilst in development, full payment of services up until the point of termination is required. The contract can be terminated once the payment has been made. 
+You will be given opportunities to review the work and provide feedback. If, at any stage, you are is not happy with the design whilst in development, you agree to pay in full for any services I have provided up until the point of termination. The contract can be terminated once the payment has been made. 
 
 ### Text content
-Mr Brown is not responsible for writing or entering any text copy. If this a requirement, a separate agreement will need to be negotiated. 
+I am not responsible for writing or entering any text copy. If this a requirement, a separate estimate can be provided.
 
 ### Photographs and graphics
-[Company] should supply graphic files in an editable, digital format. Photographs must be supplied in a high resolution digital format. Graphic files should be supplied by email where possible. Graphic files and photographs should be provided as organised, individual files (and not in other formats such as embedded in Word files).
+You should supply graphic files in an editable, digital format. Photographs must be supplied in a high resolution digital format. Graphic files should be supplied by email where possible. Graphic files and photographs should be provided as organised, individual files (and not in other formats such as embedded in Word files).
+
+If you choose to purchase stock photographs I can suggest stock libraries but you agree to search for and purchase the photos yourself. If you'd like me to search for photographs for you I can provide a separate estimate for that.
 
 Where large numbers of graphics files need to be provided (such as for an image gallery or catalogue of products) these files must be supplied in an clear, organised way. Time spent figuring out which graphics should go where will be billed at the hourly rate.
 
 #### HTML, CSS and Javascript
-Mr Brown delivers websites developed from HTML5 markup, CSS2.1 + 3 stylesheets for styling and unobtrusive Javascript for feature detection, poly-fills and behaviours.
+I deliver websites developed from HTML5 markup, CSS2.1 + 3 stylesheets for styling and unobtrusive Javascript for feature detection, poly-fills and behaviours.
 
 ### Browser testing
 Browser testing for this purpose does not mean ensuring a website looks the same in browsers or devices of different capabilities. It means ensuring that a person's experience of a design should be appropriate to the capabilities of their browser or device.
 
 ### Desktop browser testing
-Work will be tested in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Internet Explorer), Mozilla Firefox and Opera. Testing will also be carried out to ensure Microsoft Internet Explorer 7 & 8 for Windows get an appropriate (although possibly different) experience. 
+I will test my work in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Internet Explorer), Mozilla Firefox and Opera. Testing will also be carried out to ensure Microsoft Internet Explorer 7 & 8 for Windows get an appropriate (although possibly different) experience. 
 
-Older browsers will not be tested unless specified. If an enhanced design for older browsers is required, a separate estimate can be provided.
+Older browsers will not be tested unless specified. If an enhanced design for older browsers is required, I can provide a separate estimate.
 
 ### Technical support and associated services
-This contract does not include website hosting, domain name registration, email or other related services, unless these services are specifically detailed in the Outline of Work. This contract does not include setting up a website on any existing web hosting infrastructure or services you may have, unless this service is specifically detailed in the Outline of Work
+This contract does not include website hosting, domain name registration, email or other related services, unless these services are specifically detailed in the Outline Of Work. This contract does not include setting up a website on any existing web hosting infrastructure or services you may have, unless this service is specifically detailed in the Outline of Work.
 
 If web hosting or related services are required, or assistance is required to set up the website on your existing web hosting infrastructure or services, a separate estimate can be provided.
 
 ### Changes and revisions
 The price at the beginning of this contract is based on the estimated amount of work required to accomplish all the services defined in this contract.
 
-Changes and revisions can be made to the work during the project, although this may affect the estimated price if complex changes or a large number of changes are requested by [company name]. Mr. Brown will give keep [company name] informed of the progress of the project and will give fair warning if any requests made are likely to cause the project to require a longer time-frame or larger budget than defined in this contract. 
+Changes and revisions can be made to the work during the project, although this may affect the estimated price you request complex changes or a large number of changes. I will give keep you informed of the progress of the project and will give fair warning if any requests you make are likely to cause the project to require a longer time-frame or larger budget than defined in this contract. 
 
-In this situation Mr. Brown and [company name] will discuss how to move forward, either by redefining the scope of work at the same price, or by increasing the time-frame and/or budget required to complete the work. Work will halt while this is discussed and agreed on, after which work will continue.
+In this situation you and I will discuss how to move forward, either by redefining the scope of work at the same price, or by increasing the time-frame and/or budget required to complete the work. Work will halt while this is discussed and agreed on, after which work will continue. If work is halted for more than 3 weeks for this reason, I reserve to terminate this contract and you agree to pay for any services I have provided up until that point. However, I will do my best to ensure that you and I can quickly agree on a revised scope and/or budget if needed and continue with the project with the least disruption possible.
 
-It should be noted that fixed price contracts can sometimes be detrimental, limiting clients to their earliest ideas and not allowing experimentation or learning during a project. Mr. Brown would like to be flexible and if [company name] would like to change or add to the scope of work it won't be a problem. A separate estimate can be given for that.
+It should be noted that fixed price contracts can sometimes be detrimental, limiting clients to their earliest ideas and not allowing experimentation or learning during a project. I would like to be flexible and if you would like to change or add to the scope of work it won't be a problem. A separate estimate can be given for that.
 
 ### Legal notices
-All work will be completed to the highest standard. However, Mr. Brown cannot guarantee that the work will be error-free and therefore cannot be liable to [company name] or to any third-party for damages including lost profits, lost savings or other incidental, consequential or special damages, even if Mr. Brown has been advised of them. The entire risk as to the quality and performance of the webpages and website is with [company].
+All work will be completed to the highest standard possible. However, I cannot guarantee that the work will be error-free and therefore cannot be liable to you or to any third-party for damages including lost profits, lost savings or other incidental, consequential or special damages, even if I have been advised of them. The entire risk as to the quality and performance of the webpages and website is with you.
 
 If any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the validity and enforceability of any remaining provisions.
 
-This contract is non-transferable to third parties without consent of Mr Brown. If for some reason one part of this contract becomes invalid or unenforceable, the remaining provisions remain in place.
+This contract is non-transferable to third parties without my consent. If for some reason one part of this contract becomes invalid or unenforceable, the remaining provisions remain in place.
 
 This is a legal document under the exclusive jurisdiction of English courts. If any provisions are breached, Mr Brown reserves the right to commence legal proceedings if required. 
 
@@ -100,18 +102,19 @@ This is a legal document under the exclusive jurisdiction of English courts. If 
 Governments sometimes enact laws and levy taxes affecting Internet electronic commerce. You will take full responsibility for complying with such laws, taxes and tariffs and will hold
 
 ### Copyrights
-It is [company name]'s responsibility to guarantee that all elements of text, images or other artwork provided are either owned by [company], or that permission has been obtained from the rightful owner to use them. [Company] will take full responsibility if any claim or suit arising the use of assets provided is brought against Mr. Brown.
+It is your responsibility to guarantee that all elements of text, images or other artwork provided are either owned by you, or that permission has been obtained from the rightful owner to use them. You will take full responsibility if any claim or suit arising the use of assets you provide is brought against me.
 
 After the final payment has cleared, copyright will be automatically assigned as follows:
 
-[Company] will own the visual elements that Mr. Brown creates for this project. Mr. Brown will give source files and finished files and these should be kept safely as Mr. Brown is not required to keep a copy. All elements of text, images and data provided by [company] will be owned by [company], unless someone else owns them.
+You will own the visual elements that I create for this project. I will give you source files and finished files and these should be kept safely as I am not required to keep a copy. All elements of text, images and data you provide will be owned by you, unless someone else owns them.
 
-Mr. Brown will own the unique combination of these elements that constitute a complete design and will license its use to [company], exclusively and in perpetuity for this project only.
+I will own the unique combination of these elements that constitute a complete design and will license its use to you, exclusively and in perpetuity for this project only.
 
-Mr. Brown reserves the right to display and link to the project as part of his portfolio and to write about it on websites, in magazine articles and in books. 
+I reserve the right to display and link to the project as part of my portfolio and to write about it on websites, in magazine articles and in books. 
 
 ### Refunds
-Refunds are available if work is halted. If [company name] halts work and applies for a refund, any work completed will be billed at the hourly rate which [company name] agrees to pay to Mr. Brown. Any deposit paid as part of this contract is non-refundable. If at the time you halt the project the work completed by me is not covered by any initial deposit or subsequent payments you agree to pay for all work completed to that point at the hourly rate. 
+Refunds are available if work is halted. If you halt work and apply for a refund, you agree to pay me for any work I have completed which will be billed at the hourly rate. If at the time you halt the project the work I have completed is not covered by any initial deposit or subsequent payments you agree to pay for all work completed to that point at the hourly rate. 
+
 
 ## Acceptance
 Signed by [customer name] (authorised signature):  
