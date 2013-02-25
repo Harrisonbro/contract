@@ -3,7 +3,7 @@
 ## Introductions and Definitions
 This is an agreement between Mr. Harrison Brown ("I" or "me") and [Insert Company’s Name] ("you").
 
-The agreement will be in accordance with the following Terms and Conditions until an alternative is specifically agreed between the parties.
+This agreement will be in accordance with the following Terms and Conditions until an alternative is specifically agreed between the parties.
 
 ### Purpose of the Agreement
 The details of the agreement are that you are hiring me to [design and develop a website].
