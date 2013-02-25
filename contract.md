@@ -16,7 +16,7 @@ It can be terminated by either party provided a calendar months' notice is provi
 ### Fee for Services
 The services will be carried out for the total estimated price of [insert price]. 
 
-The final price is to be paid upon completion of the services provided. Work I do will not be released to you until final payment has cleared.
+The final price is to be paid upon completion of the services provided. Work I do will not be released to you until final payment has cleared. All payments must be made in GBP (£).
 
 #### Deposit
 A deposit of [inset price] is required before the commencement of any services. Services shall not begin until deposit has been received. If the initial deposit is not paid promptly I reserve the right to re-define the completion date(s) to fairly reflect the delay caused by late payment of the deposit.
