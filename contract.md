@@ -1,3 +1,42 @@
+<style type="text/css">
+  html {
+    font-family: 'proxima nova', 'helvetica neue', arial, sans-serif;
+    line-height: 1.4;
+    font-size: 16px;
+    color: #222;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'pt serif', georgia, serif;
+    font-weight: 400;
+    margin-bottom: 0.25em;
+    margin-top: 1em;
+  }
+  h1 {
+    border-bottom: 0.1em solid #ccc;
+    font-size: 3.052em;
+    font-weight: 400;
+  }
+  h2 {
+    font-size: 1.953em;
+    border-bottom: 1px solid #ccc;
+  }
+  h3 { font-size: 1.563em }
+  h4 { font-size: 1.25em }
+  p { margin: 0 }
+  p + p { margin-top: 0.5em }
+  ul, ol { margin: 0.5em 0 }
+  .sign {
+    line-height: 1;
+    margin: 1.5em 0 1em 0;
+    border-bottom: 1px solid #ccc;
+  }
+  .sign + .sign { margin-top: 0.5em }
+  .sign label {
+    background: white;
+    padding: 0.25em 1em 0.25em 0;
+  }
+</style>
+
 # Contract of Services 
 
 ## Introductions and Definitions
@@ -119,22 +158,18 @@ Refunds are available if work is halted. If you halt work and apply for a refund
 ## Acceptance
 Signed by [customer name] (authorised signature):  
   
-Signature: ................................................................................................  
+<div class="sign"><label>Signature:</label></div>
+<div class="sign"><label>Print name:</label></div>  
+<div class="sign"><label>Date:</label></div>
 
-Print name: ...............................................................................................  
-
-Date: .....................................................................................................
-  
 <br />
-  
 Signed by Harrison Brown (authorised signature):  
 
-Signature: ................................................................................................  
+<div class="sign"><label>Signature:</label></div>
+<div class="sign"><label>Print name:</label></div>  
+<div class="sign"><label>Date:</label></div>
 
-Print name: ...............................................................................................  
-
-Date: .....................................................................................................
-  
 <br />
-  
 Please retain a copy of this agreement for your records. 
+
+Ablos Media Contract #[contract number]
