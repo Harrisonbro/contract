@@ -19,7 +19,7 @@ The services will be carried out for the total estimated price of [insert price]
 The final price is to be paid upon completion of the services provided. Work I do will not be released to you until final payment has cleared. All payments must be made in GBP (£).
 
 #### Deposit
-A deposit of [inset price] is required before the commencement of any services. Services shall not begin until the deposit has been received. If the initial deposit is not paid promptly I reserve the right to re-define the completion date(s) to fairly reflect the delay caused by late payment of the deposit.
+A deposit of [insert price] is required before the commencement of any services. Services shall not begin until the deposit has been received. If the initial deposit is not paid promptly I reserve the right to re-define the completion date(s) to fairly reflect the delay caused by late payment of the deposit.
 
 #### Late payments
 You agree to pay all invoices within 7 days of receipt, unless the invoice specifies otherwise. Delinquent bills will be assessed a 5% charge if payment has not cleared within 7 days of the due date as shown on the invoice. If any amount continues to remain unpaid after this an addition 5% of the original invoice will be charged for every 7 days of delinquency. In the case that collection by a 3rd party becomes necessary you agree to pay all fees incurred by that process.
