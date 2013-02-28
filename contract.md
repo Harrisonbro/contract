@@ -99,7 +99,7 @@ This contract is not transferable to third parties without my consent. If for so
 This is a legal document under the exclusive jurisdiction of English courts. If any provisions are breached, I reserve the right to commence legal proceedings, if required. 
 
 ### Laws affecting electronic commerce
-You will take full responsibility for complying with any laws, taxes and tariffs affecting Internet electronic commerce and will hold **********
+You will take full responsibility for complying with any laws, taxes and tariffs affecting Internet electronic commerce and will hold harmless, protect, and defend me and my subcontractors from any claim, suit, penalty, tax, or tariff arising from your use of Internet electronic commerce.
 
 ### Copyrights
 It is your responsibility to guarantee that all elements of text, images or other artwork provided are either owned by you, or that permission has been obtained from the rightful owner to use them. You will take full responsibility if any claim or suit arising the use of assets you provide is brought against me.
